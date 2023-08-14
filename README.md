@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm IMRAN KHAN</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan 💕</h3>
+<h3 align="center" style="margin-top:200px;">A passionate Frontend Developer from Pakistan 💕</h3>
 
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width=400 >
+<img  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width=400 >
 
-<br/><br/><br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-khani&label=Profile%20views&color=0e75b6&style=flat" alt="imran-khani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran-khani" alt="imran-khani" /></a> </p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran-khani" alt="imran-khani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@imran-khani" target="blank"><img src="https://img.shields.io/twitter/follow/@imran-khani?logo=twitter&style=for-the-badge" alt="@imran-khani" /></a> </p>
 
