@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm IMRAN KHAN</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Frontend Developer from Pakistan 💕</h3>
 
 <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width=400 >
 
-
+<br/><br/><br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-khani&label=Profile%20views&color=0e75b6&style=flat" alt="imran-khani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran-khani" alt="imran-khani" /></a> </p>
@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on [ReactJs](https://github.com/imran-khani)
 
-- 🌱 I’m currently learning **ReactJs, Tailwind CSS, Firebase and NextJs**
+- 🌱 I’m currently learning **ReactJs, Tailwind CSS, Firebase, and NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imran-khani](https://github.com/imran-khani)
 
 - 📝 I regularly write articles on [nill](nill)
 
-- 💬 Ask me about **Html, Css, Js, Tailwind, Git,Firebase**
+- 💬 Ask me about **HTML, CSS, JS, TAILWIND CSS, Git, FIREBASE**
 
 - 📫 How to reach me **webunveilers@gmail.com**
 
