@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/imran-khani](https://github.com/imran-khani)
 
-- 📝 I regularly write articles on [nill](nill)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **HTML, CSS, JS, TAILWIND CSS, Git, FIREBASE**
 
