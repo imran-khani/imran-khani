@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/imran-khani](https://github.com/imran-khani)
 
-- 📝 I regularly write articles on <a href="https://medium.com/@imranloveh01">Medium</a>
+- 📝 I regularly write articles on <a href="https://medium.com/@imrankhani">Medium</a>
 
 - 💬 Ask me about **HTML, CSS, JS, TAILWIND CSS, Git, FIREBASE**
 
