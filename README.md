@@ -19,7 +19,7 @@
 
 - ⚡ Passionate about **building scalable applications and enhancing user experience**  
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 [OpenAI O1 vs DeepSeek R1 (Jan 2025)](https://imrankhani.medium.com/openai-o1-vs-deepseek-r1-as-of-january-2025-39e636283bcd)  
 [Why AI Still Needs Human Developers](https://imrankhani.medium.com/why-ai-still-needs-human-developers-0367952729b1)  
