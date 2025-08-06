@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IMRAN KHAN</h1>
-<h3 align="center" style="margin-top:200px;">A Full-Stack Web Developer.</h3>
+<h3 align="center" style="margin-top:200px;">A Web Developer.</h3>
 
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width=400 >
 
